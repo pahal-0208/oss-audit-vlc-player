@@ -1,0 +1,4 @@
+Open Source Manifesto
+Name   : Pahal Babbar
+Date   : Sun Mar 29 19:32:55 UTC 2026
+Belief : I support open source because it promotes transparency, collaboration, and innovation. It allows developers to learn, contribute, and improve software freely.
