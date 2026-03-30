@@ -3,7 +3,7 @@
 - Name: Pahal Babbar
 - Roll Number: 24BAI10226
 - Course: Open Source Software (NGMC) 
-- Repository: https://github.com/pahal-0208/PahalBabbar
+- Repository: https://github.com/pahal-0208/oss-audit-vlc-player
 ---
 ## Project Overview
 This project presents a structured audit of VLC Media Player, one of the most widely used open-source multimedia players.<br>
