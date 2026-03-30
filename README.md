@@ -2,7 +2,7 @@
 ## Author Details
 - Name: Pahal Babbar
 - Roll Number: 24BAI10226
-- Course: Open Source Software (NGMC)
+- Course: Open Source Software (NGMC) 
 - Repository: https://github.com/PahalBabbar/oss-audit-24bai10226
 ---
 ## Project Overview
